@@ -1,5 +1,5 @@
 <config>
 
-	<set xpath="/items/item[@name='meleeHandMaster']/property[@class='Action0']/property[@name='Range'][@value='1.65']/@value">1.35</set>
+	<set xpath="/items/item[@name='meleeHandMaster']/property[@class='Action0']/property[@name='Range']/@value">1.35</set>
 
 </config>
