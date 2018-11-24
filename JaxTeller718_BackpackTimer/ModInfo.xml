@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="JaxTeller718_BackpackTimer" />
+		<Description value="Triples the timers on all dropped backpack and loot bags" />
+		<Author value="JaxTeller718" />
+		<Version value="1.0.0" />
+	</ModInfo>
+</xml>
