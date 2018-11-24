@@ -2,7 +2,7 @@
 <xml>
 	<ModInfo>
 		<Name value="JaxTeller718_LessOresInSurfaceBoulders" />
-		<Description value="Adds Coal as a requiremnt in the campfire recipe as well as part of the quest to craft it." />
+		<Description value="Removes Lead from surafce boulders and lowers amount of coal, potassium and iron in them" />
 		<Author value="JaxTeller718" />
 		<Version value="1.0.0" />
 	</ModInfo>

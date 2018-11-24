@@ -2,7 +2,7 @@
 <xml>
 	<ModInfo>
 		<Name value="JaxTeller718_ToolsAndWeaponsBreak" />
-		<Description value="Tools and Weapons will now break. Guns and Power Tools Will Not." />
+		<Description value="Tools and Weapons will now break" />
 		<Author value="JaxTeller718" />
 		<Version value="1.0.0" />
 	</ModInfo>
