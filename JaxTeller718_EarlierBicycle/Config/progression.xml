@@ -20,9 +20,8 @@ Here are some example xpath:
 	
 -->
 <configs>
-	<set xpath="/blocks/block[@name='rockResource']/drop[@event='Harvest' and @name='resourceIronFragment']/@count">7</set>
-	<set xpath="/blocks/block[@name='rockResource']/drop[@event='Harvest' and @name='resourceCoal']/@count">3</set>
-	<set xpath="/blocks/block[@name='rockResource']/drop[@event='Harvest' and @name='resourcePotassiumNitratePowder']/@count">3</set>
-	<remove xpath="/blocks/block[@name='rockResource']/drop[@event='Harvest' and @name='resourceScrapLead']" />	
+	<set xpath="/progression/perks/perk[@name='perkGreaseMonkey']/level_requirements[@level='1']/requirement[@name='ProgressionLevel']/@value">4</set>
+	<set xpath="/progression/perks/perk[@name='perkGreaseMonkey']/level_requirements[@level='1']/requirement[@name='ProgressionLevel']/@desc_key">reqIntellectLevel4</set>
+
 
 </configs>

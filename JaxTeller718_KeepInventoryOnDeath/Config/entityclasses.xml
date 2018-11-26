@@ -1,0 +1,6 @@
+<config>
+
+	<remove xpath="/entity_classes/property[@name='DropInventoryBlock'][@value='cntBackpackDropped']" />
+
+
+</config>
