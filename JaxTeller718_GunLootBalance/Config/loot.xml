@@ -1,0 +1,51 @@
+<config>
+
+	<set xpath="/lootcontainers/lootcontainer[@id='11']/item[@group='modAllT1']/@prob">0.1</set>
+	<set xpath="/lootcontainers/lootcontainer[@id='11']/item[@group='modAllT2']/@prob">0.07</set>
+	<set xpath="/lootcontainers/lootcontainer[@id='11']/item[@group='modAllT3']/@prob">0.05</set>
+
+	<set xpath="/lootcontainers/lootcontainer[@id='41']/item[@group='modAllT1']/@prob">0.1</set>
+	<set xpath="/lootcontainers/lootcontainer[@id='41']/item[@group='modAllT2']/@prob">0.07</set>
+	<set xpath="/lootcontainers/lootcontainer[@id='41']/item[@group='modAllT3']/@prob">0.05</set>
+
+	<set xpath="/lootcontainers/lootcontainer[@id='42']/item[@group='modAllT1']/@prob">0.1</set>
+	<set xpath="/lootcontainers/lootcontainer[@id='42']/item[@group='modAllT2']/@prob">0.07</set>
+	<set xpath="/lootcontainers/lootcontainer[@id='42']/item[@group='modAllT3']/@prob">0.05</set>
+
+	<set xpath="/lootcontainers/lootcontainer[@id='50']/item[@group='modAllT1']/@prob">0.1</set>
+	<set xpath="/lootcontainers/lootcontainer[@id='50']/item[@group='modAllT2']/@prob">0.07</set>
+	<set xpath="/lootcontainers/lootcontainer[@id='50']/item[@group='modAllT3']/@prob">0.05</set>
+
+	<set xpath="/lootcontainers/lootcontainer[@id='61']/item[@group='modAllT1']/@prob">0.1</set>
+	<set xpath="/lootcontainers/lootcontainer[@id='61']/item[@group='modAllT2']/@prob">0.07</set>
+	<set xpath="/lootcontainers/lootcontainer[@id='61']/item[@group='modAllT3']/@prob">0.05</set>
+
+	<set xpath="/lootcontainers/lootcontainer[@id='71']/item[@group='modAllT2']/@prob">0.1</set>
+	<set xpath="/lootcontainers/lootcontainer[@id='71']/item[@group='modAllT3']/@prob">0.05</set>
+
+	<set xpath="/lootcontainers/lootcontainer[@id='100']/item[@group='modAllT1']/@prob">0.1</set>
+	<set xpath="/lootcontainers/lootcontainer[@id='100']/item[@group='modAllT2']/@prob">0.07</set>
+	<set xpath="/lootcontainers/lootcontainer[@id='100']/item[@group='modAllT3']/@prob">0.05</set>
+
+	<set xpath="/lootcontainers/lootcontainer[@id='101']/item[@group='modAllT1']/@prob">0.1</set>
+	<set xpath="/lootcontainers/lootcontainer[@id='101']/item[@group='modAllT2']/@prob">0.07</set>
+	<set xpath="/lootcontainers/lootcontainer[@id='101']/item[@group='modAllT3']/@prob">0.05</set>
+
+	<set xpath="/lootcontainers/lootgroup[@name='weaponsBasicGuns+ammo']/item[@group='weaponsPistol+ammo']/@prob">0.1</set>
+	<set xpath="/lootcontainers/lootgroup[@name='weaponsBasicGuns+ammo']/item[@group='weaponsAnyShotguns+ammo']/@prob">0.03</set>
+	<set xpath="/lootcontainers/lootgroup[@name='weaponsBasicGuns+ammo']/item[@group='weaponsHuntingRifle+ammo']/@prob">0.05</set>
+
+	<set xpath="/lootcontainers/lootgroup[@name='weaponsMilitaryGuns+ammo']/item[@group='weaponsMP5+ammo']/@prob">0.1</set>
+	<set xpath="/lootcontainers/lootgroup[@name='weaponsMilitaryGuns+ammo']/item[@group='weaponsSniperRifle+ammo']/@prob">0.03</set>
+	<set xpath="/lootcontainers/lootgroup[@name='weaponsMilitaryGuns+ammo']/item[@group='weaponsAK47+ammo']/@prob">0.05</set>
+	<set xpath="/lootcontainers/lootgroup[@name='weaponsMilitaryGuns+ammo']/item[@group='weaponsRocketLauncher+ammo']/@prob">0.015</set>	
+
+	<set xpath="/lootcontainers/lootgroup[@name='backpacks']/item[@group='weaponsBasicGuns+ammo']/@prob">0.2</set>	
+
+	<set xpath="/lootcontainers/lootcontainer[@id='34']/item[@group='weaponsMilitaryGuns+ammo']/@prob">0.8</set>
+
+	<set xpath="/lootcontainers/lootcontainer[@id='42']/@count">2,4</set>
+
+	<set xpath="/lootcontainers/lootcontainer[@id='50']/@count">1,2</set>
+
+</config>
