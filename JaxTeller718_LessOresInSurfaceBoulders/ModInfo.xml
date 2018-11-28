@@ -2,7 +2,7 @@
 <xml>
 	<ModInfo>
 		<Name value="JaxTeller718_LessOresInSurfaceBoulders" />
-		<Description value="Removes Lead from surafce boulders and lowers amount of coal, potassium and iron in them" />
+		<Description value="Removes Lead from surface boulders and lowers amount of coal, potassium and iron in them" />
 		<Author value="JaxTeller718" />
 		<Version value="1.0.0" />
 	</ModInfo>

@@ -2,7 +2,7 @@
 <xml>
 	<ModInfo>
 		<Name value="JaxTeller718_20MinuteDeathPenalty" />
-		<Description value="Reduces the Death Penalty from 60 minutes to 20 minutes." />
+		<Description value="Reduces the Death Penalty from 30 minutes to 20 minutes." />
 		<Author value="JaxTeller718" />
 		<Version value="1.0.0" />
 	</ModInfo>
