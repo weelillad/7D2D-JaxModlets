@@ -24,21 +24,25 @@ Here are some example xpath:
 	<insertAfter xpath="/spawning/biome[@name='pine_forest']/spawn[@entitygroup='FriendlyAnimalsForest']">
 		<spawn maxcount="2" respawndelay="2" time="Any" entitygroup="ZombiesAll" />
 		<spawn maxcount="1" respawndelay="2" time="Night" entitygroup="ZombiesAll" />
+		<spawn maxcount="1" respawndelay="1" time="Any" entitygroup="ZombiesAll" />
 	</insertAfter>
 
 	<insertAfter xpath="/spawning/biome[@name='desert']/spawn[@entitygroup='FriendlyAnimalsDesert']">
 		<spawn maxcount="2" respawndelay="2" time="Any" entitygroup="ZombiesAll" />
 		<spawn maxcount="1" respawndelay="2" time="Night" entitygroup="ZombiesAll" />
+		<spawn maxcount="1" respawndelay="1" time="Any" entitygroup="ZombiesAll" />
 	</insertAfter>
 
 	<insertAfter xpath="/spawning/biome[@name='burnt_forest']/spawn[@entitygroup='EnemyAnimalsBurntForest']">
 		<spawn maxcount="1" respawndelay="2" time="Any" entitygroup="ZombiesBurntForest" />
 		<spawn maxcount="1" respawndelay="2" time="Night" entitygroup="ZombiesBurntForest" />
+		<spawn maxcount="1" respawndelay="1" time="Any" entitygroup="ZombiesBurntForest" />
 	</insertAfter>
 
 	<insertAfter xpath="/spawning/biome[@name='snow']/spawn[@entitygroup='FriendlyAnimalsSnow']">
 		<spawn maxcount="1" respawndelay="2" time="Any" entitygroup="SnowZombies" />
 		<spawn maxcount="1" respawndelay="2" time="Night" entitygroup="SnowZombies" />
+		<spawn maxcount="1" respawndelay="1" time="Any" entitygroup="SnowZombies" />
 	</insertAfter>
 
 

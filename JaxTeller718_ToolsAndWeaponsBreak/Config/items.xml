@@ -3,7 +3,7 @@
 	<set xpath="/items/item/property[@name='DegradationBreaksAfter'][@value='false']/@value">true</set>
 
 	<insertAfter xpath="/items/item[@name='meleeBoneShiv']/property[@name='SellableToTrader']" >
-		<property name="DegradationBreaksAfter" value="false"/>
+		<property name="DegradationBreaksAfter" value="true"/>
 	</insertAfter>
 
 </config>

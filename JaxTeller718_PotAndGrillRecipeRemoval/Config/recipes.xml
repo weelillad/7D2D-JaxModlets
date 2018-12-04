@@ -22,7 +22,7 @@ Here are some example xpath:
 <configs>
 
 
-	
+
 	<remove xpath="/recipes/recipe[@name='toolCookingPot']" />	
 	<remove xpath="/recipes/recipe[@name='toolCookingGrill']" />	
 
