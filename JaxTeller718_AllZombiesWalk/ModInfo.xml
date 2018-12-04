@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="JaxTeller718_AllZombiesWalk" />
+		<Description value="Sets All Zombies including ferals and radiateds to walk only for a traditional zombie apocalypse" />
+		<Author value="JaxTeller718" />
+		<Version value="1.0.0" />
+	</ModInfo>
+</xml>

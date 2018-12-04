@@ -1,0 +1,96 @@
+<configs>
+
+	<set xpath="/entity_classes/entity_class[@name='zombieWightFeral']/property[@name='ApproachSpeed']/@value">0.2</set>
+	<set xpath="/entity_classes/entity_class[@name='zombieWightFeral']/property[@name='NightApproachSpeed']/@value">1.1</set>
+
+	<set xpath="/entity_classes/entity_class[@name='zombieBoeFeral']/property[@name='ApproachSpeed']/@value">0.2</set>
+	<set xpath="/entity_classes/entity_class[@name='zombieBoeFeral']/property[@name='NightApproachSpeed']/@value">1.1</set>
+
+	<set xpath="/entity_classes/entity_class[@name='zombieFootballPlayer']/property[@name='ApproachSpeed']/@value">0.5</set>
+	<set xpath="/entity_classes/entity_class[@name='zombieFootballPlayer']/property[@name='NightApproachSpeed']/@value">1.1</set>
+
+	<set xpath="/entity_classes/entity_class[@name='zombieFemaleFatFeral']/property[@name='ApproachSpeed']/@value">0.2</set>
+	<set xpath="/entity_classes/entity_class[@name='zombieFemaleFatFeral']/property[@name='NightApproachSpeed']/@value">1.1</set>
+
+	<set xpath="/entity_classes/entity_class[@name='zombieJoeRadiated']/property[@name='ApproachSpeed']/@value">0.2</set>
+	<set xpath="/entity_classes/entity_class[@name='zombieJoeRadiated']/property[@name='NightApproachSpeed']/@value">1.1</set>
+
+	<set xpath="/entity_classes/entity_class[@name='zombieMoeFeral']/property[@name='ApproachSpeed']/@value">0.2</set>
+	<set xpath="/entity_classes/entity_class[@name='zombieMoeFeral']/property[@name='NightApproachSpeed']/@value">1.1</set>
+
+	<set xpath="/entity_classes/entity_class[@name='zombieArleneFeral']/property[@name='ApproachSpeed']/@value">0.2</set>
+	<set xpath="/entity_classes/entity_class[@name='zombieArleneFeral']/property[@name='NightApproachSpeed']/@value">1.1</set>
+
+	<set xpath="/entity_classes/entity_class[@name='zombieArleneRadiated']/property[@name='ApproachSpeed']/@value">0.2</set>
+	<set xpath="/entity_classes/entity_class[@name='zombieArleneRadiated']/property[@name='NightApproachSpeed']/@value">1.1</set>
+
+	<set xpath="/entity_classes/entity_class[@name='zombieLabFeral']/property[@name='ApproachSpeed']/@value">0.2</set>
+	<set xpath="/entity_classes/entity_class[@name='zombieLabFeral']/property[@name='NightApproachSpeed']/@value">1.1</set>
+
+	<set xpath="/entity_classes/entity_class[@name='zombieLabRadiated']/property[@name='ApproachSpeed']/@value">0.2</set>
+	<set xpath="/entity_classes/entity_class[@name='zombieLabRadiated']/property[@name='NightApproachSpeed']/@value">1.1</set>
+
+	<set xpath="/entity_classes/entity_class[@name='zombieScreamerFeral']/property[@name='ApproachSpeed']/@value">0.2</set>
+	<set xpath="/entity_classes/entity_class[@name='zombieScreamerFeral']/property[@name='NightApproachSpeed']/@value">1.1</set>
+
+	<set xpath="/entity_classes/entity_class[@name='zombieScreamerRadiated']/property[@name='ApproachSpeed']/@value">0.2</set>
+	<set xpath="/entity_classes/entity_class[@name='zombieScreamerRadiated']/property[@name='NightApproachSpeed']/@value">1.1</set>
+
+	<set xpath="/entity_classes/entity_class[@name='zombieDarleneFeral']/property[@name='ApproachSpeed']/@value">0.2</set>
+	<set xpath="/entity_classes/entity_class[@name='zombieDarleneFeral']/property[@name='NightApproachSpeed']/@value">1.1</set>
+
+	<set xpath="/entity_classes/entity_class[@name='zombieMarleneFeral']/property[@name='ApproachSpeed']/@value">0.2</set>
+	<set xpath="/entity_classes/entity_class[@name='zombieMarleneFeral']/property[@name='NightApproachSpeed']/@value">1.1</set>
+
+	<set xpath="/entity_classes/entity_class[@name='zombieYoFeral']/property[@name='ApproachSpeed']/@value">0.2</set>
+	<set xpath="/entity_classes/entity_class[@name='zombieYoFeral']/property[@name='NightApproachSpeed']/@value">1.1</set>
+
+	<set xpath="/entity_classes/entity_class[@name='zombieSteveFeral']/property[@name='ApproachSpeed']/@value">0.2</set>
+	<set xpath="/entity_classes/entity_class[@name='zombieSteveFeral']/property[@name='NightApproachSpeed']/@value">1.1</set>
+
+	<set xpath="/entity_classes/entity_class[@name='zombieBusinessManFeral']/property[@name='ApproachSpeed']/@value">0.2</set>
+	<set xpath="/entity_classes/entity_class[@name='zombieBusinessManFeral']/property[@name='NightApproachSpeed']/@value">1.1</set>
+
+	<set xpath="/entity_classes/entity_class[@name='zombieSnowFeral']/property[@name='ApproachSpeed']/@value">0.2</set>
+	<set xpath="/entity_classes/entity_class[@name='zombieSnowFeral']/property[@name='NightApproachSpeed']/@value">1.1</set>
+
+	<set xpath="/entity_classes/entity_class[@name='zombieSpiderFeral']/property[@name='ApproachSpeed']/@value">0.2</set>
+	<set xpath="/entity_classes/entity_class[@name='zombieSpiderFeral']/property[@name='NightApproachSpeed']/@value">1.1</set>
+
+	<set xpath="/entity_classes/entity_class[@name='zombieNurseFeral']/property[@name='ApproachSpeed']/@value">0.2</set>
+	<set xpath="/entity_classes/entity_class[@name='zombieNurseFeral']/property[@name='NightApproachSpeed']/@value">1.1</set>
+
+	<set xpath="/entity_classes/entity_class[@name='zombieFatHawaiianFeral']/property[@name='ApproachSpeed']/@value">0.2</set>
+	<set xpath="/entity_classes/entity_class[@name='zombieFatHawaiianFeral']/property[@name='NightApproachSpeed']/@value">1.1</set>
+
+	<set xpath="/entity_classes/entity_class[@name='zombieFatCopFeral']/property[@name='ApproachSpeed']/@value">0.2</set>
+	<set xpath="/entity_classes/entity_class[@name='zombieFatCopFeral']/property[@name='NightApproachSpeed']/@value">1.1</set>
+
+	<set xpath="/entity_classes/entity_class[@name='zombieUtilityWorkerFeral']/property[@name='ApproachSpeed']/@value">0.2</set>
+	<set xpath="/entity_classes/entity_class[@name='zombieUtilityWorkerFeral']/property[@name='NightApproachSpeed']/@value">1.1</set>
+	
+	<set xpath="/entity_classes/entity_class[@name='zombieSoldierFeral']/property[@name='ApproachSpeed']/@value">0.2</set>
+	<set xpath="/entity_classes/entity_class[@name='zombieSoldierFeral']/property[@name='NightApproachSpeed']/@value">1.1</set>
+
+	<set xpath="/entity_classes/entity_class[@name='zombieSoldierRadiated']/property[@name='ApproachSpeed']/@value">0.2</set>
+	<set xpath="/entity_classes/entity_class[@name='zombieSoldierRadiated']/property[@name='NightApproachSpeed']/@value">1.1</set>
+
+	<set xpath="/entity_classes/entity_class[@name='zombieSkateboarderFeral']/property[@name='ApproachSpeed']/@value">0.2</set>
+	<set xpath="/entity_classes/entity_class[@name='zombieSkateboarderFeral']/property[@name='NightApproachSpeed']/@value">1.1</set>
+
+	<set xpath="/entity_classes/entity_class[@name='zombieCheerleaderFeral']/property[@name='ApproachSpeed']/@value">0.2</set>
+	<set xpath="/entity_classes/entity_class[@name='zombieCheerleaderFeral']/property[@name='NightApproachSpeed']/@value">1.1</set>
+
+	<set xpath="/entity_classes/entity_class[@name='zombieOldTimerFeral']/property[@name='ApproachSpeed']/@value">0.2</set>
+	<set xpath="/entity_classes/entity_class[@name='zombieOldTimerFeral']/property[@name='NightApproachSpeed']/@value">1.1</set>
+
+	<set xpath="/entity_classes/entity_class[@name='zombieBikerFeral']/property[@name='ApproachSpeed']/@value">0.2</set>
+	<set xpath="/entity_classes/entity_class[@name='zombieBikerFeral']/property[@name='NightApproachSpeed']/@value">1.1</set>
+
+	<set xpath="/entity_classes/entity_class[@name='zombieFarmerFeral']/property[@name='ApproachSpeed']/@value">0.2</set>
+	<set xpath="/entity_classes/entity_class[@name='zombieFarmerFeral']/property[@name='NightApproachSpeed']/@value">1.1</set>
+
+	<set xpath="/entity_classes/entity_class[@name='zombieStripperFeral']/property[@name='ApproachSpeed']/@value">0.2</set>
+	<set xpath="/entity_classes/entity_class[@name='zombieStripperFeral']/property[@name='NightApproachSpeed']/@value">1.1</set>
+	
+</configs>
