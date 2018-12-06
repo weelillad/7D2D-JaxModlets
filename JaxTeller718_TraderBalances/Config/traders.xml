@@ -1,6 +1,6 @@
 <config>
 
-	<set xpath="/traders[@sell_markdown]/@buy_markup">0.3</set>
+	<set xpath="/traders[@sell_markdown]/@sell_markdown">0.3</set>
 	<set xpath="/traders[@buy_markup]/@buy_markup">4.0</set>
 	<set xpath="/traders[@quality_mod]/@quality_mod">1,3</set>
 	<set xpath="/traders/trader_info[@id='1']/@min_inventory">30</set>
