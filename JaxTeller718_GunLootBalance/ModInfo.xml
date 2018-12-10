@@ -4,6 +4,6 @@
 		<Name value="JaxTeller718_GunLootBalance" />
 		<Description value="Reduced Gun Loot and tweaks probabilities so you are not swimming in guns. Also varies the probabilities of T1 - T3 Mods in all loot so that T3 is rarer than T1" />
 		<Author value="JaxTeller718" />
-		<Version value="1.0.0" />
+		<Version value="1.0.1" />
 	</ModInfo>
 </xml>
