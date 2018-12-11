@@ -2,8 +2,8 @@
 <xml>
 	<ModInfo>
 		<Name value="JaxTeller718_EarlierBicycle" />
-		<Description value="Unlocks the bicycle at Level 20" />
+		<Description value="Unlocks the bicycle at Level 20 and removes the workbench requirement" />
 		<Author value="JaxTeller718" />
-		<Version value="1.0.0" />
+		<Version value="1.0.1" />
 	</ModInfo>
 </xml>
