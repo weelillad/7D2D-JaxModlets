@@ -1,5 +1,0 @@
-<config>
-
-	<remove xpath="/lootcontainers/lootcontainer[@id='70']/item[@name='resourceCandleStick']" />
-	<remove xpath="/lootcontainers/lootcontainer[@id='71']/item[@name='resourceCandleStick']" />
-</config>

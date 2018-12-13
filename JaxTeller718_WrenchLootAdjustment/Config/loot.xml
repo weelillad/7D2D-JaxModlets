@@ -1,8 +1,8 @@
 <config>
 
-	<set xpath="/lootcontainers/lootgroup[@name='tools']/item[@name='meleeToolWrench']/@prob">0.5</set>
+	<set xpath="/lootcontainers/lootgroup[@name='tools']/item[@name='meleeToolWrench']/@prob">0.6</set>
 	<remove xpath="/lootcontainers/lootcontainer[@id='8']/item[@name='meleeToolWrench']" />
 	<append xpath="/lootcontainers/lootcontainer[@id='8']">
-		<item name="meleeToolWrench" count="1" prob="0.2" />
+		<item name="meleeToolWrench" count="1" prob="0.3" />
 	</append>
 </config>
