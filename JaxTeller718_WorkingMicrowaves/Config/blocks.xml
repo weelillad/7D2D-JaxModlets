@@ -34,7 +34,6 @@ Here are some example xpath:
 		<property name="Material" value="Mmetal"/>
 		<property name="MaxDamage" value="800"/>
 		<property name="StabilitySupport" value="false"/>
-		<property name="MultiBlockDim" value="2,2,1"/>
 		<property name="HeatMapStrength" value="0.5"/>
 		<property name="HeatMapTime" value="1200"/>
 		<property name="HeatMapFrequency" value="25"/>
