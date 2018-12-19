@@ -31,8 +31,6 @@ Here are some example xpath:
 	<remove xpath="/recipes/recipe[@name='cntWallSafe']" />	
 	<remove xpath="/recipes/recipe[@name='cntGreenDrawerSecure']" />	
 	<remove xpath="/recipes/recipe[@name='cntGunSafe']" />	
-	<remove xpath="/recipes/recipe[@name='cntFridgeBottom']" />	
-	<remove xpath="/recipes/recipe[@name='cntFridgeTop']" />		
 	<remove xpath="/recipes/recipe[@name='cntMailBox01']" />	
 	<remove xpath="/recipes/recipe[@name='cntMailBox02']" />	
 	<remove xpath="/recipes/recipe[@name='cntMailBox03']" />	
