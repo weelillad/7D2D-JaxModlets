@@ -91,19 +91,7 @@ Here are some example xpath:
 			<ingredient name="resourceMechanicalParts" count="5"/>
 		</recipe>
 
-		<recipe name="Fridge Bottom" count="1" craft_area="workbench">
-			<ingredient name="resourceForgedIron" count="4"/>
-			<ingredient name="resourceMetalPipe" count="2"/>
-			<ingredient name="resourceMechanicalParts" count="1"/>
-			<ingredient name="resourceElectricParts" count="5"/>
-		</recipe>
 
-		<recipe name="Refrigerator Top" count="1" craft_area="workbench">
-			<ingredient name="resourceForgedIron" count="4"/>
-			<ingredient name="resourceMetalPipe" count="2"/>
-			<ingredient name="resourceMechanicalParts" count="1"/>
-			<ingredient name="resourceElectricParts" count="5"/>
-		</recipe>
 
 		<recipe name="Mail Box 1" count="1">
 			<ingredient name="resourceForgedIron" count="2"/>
