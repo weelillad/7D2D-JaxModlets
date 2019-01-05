@@ -23,7 +23,7 @@
 	<set xpath="/entity_classes/entity_class[@name='zombieScreamerFeral']/property[@name='LootDropProb']/@value">0.05</set>
 
 	<set xpath="/entity_classes/entity_class[@name='zombieScreamerRadiated']/property[@name='LootDropProb']/@value">0.05</set>
-	
+
 	<set xpath="/entity_classes/entity_class[@name='zombieDarleneFeral']/property[@name='LootDropProb']/@value">0.05</set>
 
 	<set xpath="/entity_classes/entity_class[@name='zombieMarleneFeral']/property[@name='LootDropProb']/@value">0.05</set>
@@ -45,7 +45,7 @@
 	<set xpath="/entity_classes/entity_class[@name='zombieFatCopFeral']/property[@name='LootDropProb']/@value">0.05</set>
 
 	<set xpath="/entity_classes/entity_class[@name='zombieUtilityWorkerFeral']/property[@name='LootDropProb']/@value">0.05</set>
-	
+
 	<set xpath="/entity_classes/entity_class[@name='zombieSoldierFeral']/property[@name='LootDropProb']/@value">0.05</set>
 
 	<set xpath="/entity_classes/entity_class[@name='zombieSoldierRadiated']/property[@name='LootDropProb']/@value">0.05</set>
@@ -61,5 +61,5 @@
 	<set xpath="/entity_classes/entity_class[@name='zombieFarmerFeral']/property[@name='LootDropProb']/@value">0.05</set>
 
 	<set xpath="/entity_classes/entity_class[@name='zombieStripperFeral']/property[@name='LootDropProb']/@value">0.05</set>
-	
+
 </configs>

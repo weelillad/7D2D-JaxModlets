@@ -33,34 +33,34 @@ Here are some example xpath:
 			<ingredient name="foodCanBeef" count="1"/>
 			<ingredient name="foodCanStock" count="1"/>
 		</recipe>
-		
+
 		<recipe name="Chicken Soup" count="1" craft_time = "15" craft_area="microwave">
 			<ingredient name="Bowl" count="1"/>
 			<ingredient name="foodCanChicken" count="1"/>
 			<ingredient name="foodCanSoup" count="1"/>
 		</recipe>
-		
+
 		<recipe name="Lamb Soup" count="1" craft_time = "15" craft_area="microwave">
 			<ingredient name="Bowl" count="1"/>
 			<ingredient name="foodCanLamb" count="1"/>
 			<ingredient name="foodCanSoup" count="1"/>
 		</recipe>
-		
+
 		<recipe name="Bowl of Chili" count="1" craft_time = "15" craft_area="microwave">
 			<ingredient name="Bowl" count="1"/>
 			<ingredient name="foodCanChili" count="2"/>
 		</recipe>
-		
+
 		<recipe name="Bowl of Pasta" count="1" craft_time = "15" craft_area="microwave">
 			<ingredient name="Bowl" count="1"/>
 			<ingredient name="foodCanPasta" count="2"/>
 		</recipe>
-		
+
 		<recipe name="Miso Soup" count="1" craft_time = "15" craft_area="microwave">
 			<ingredient name="Bowl" count="1"/>
 			<ingredient name="foodCanMiso" count="2"/>
 		</recipe>
-		
+
 	</append>
 
 </configs>
